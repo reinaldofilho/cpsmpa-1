@@ -1,0 +1,27 @@
+div {
+    background-color: indianred;
+}
+
+h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: ghostwhite;
+}
+
+#paragrafo1 {
+    color: gold;
+}
+
+#p2 {
+    color: darkslategrey;
+}
+
+.alerta {
+    background-color: yellow;
+    margin-left: 100px;
+    margin-right: 50px;
+    margin-top: 300px;
+}
+
+.alerta {
+    border: 3px blueviolet;
+}

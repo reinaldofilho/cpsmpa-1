@@ -1,0 +1,20 @@
+div {
+    background-color:lightskyblue;
+}
+
+#p1 {
+    font-style: italic;
+}
+
+#p2 {
+    font-style: italic;
+    color: tomato;
+}
+
+#p3 {
+    font-style: initial;
+}
+
+.artigos {
+    background: green;
+}
